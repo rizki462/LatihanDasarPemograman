@@ -1,2 +1,2 @@
 nama = ("rizki kurnia")
-print = (nama)
+print(nama)
